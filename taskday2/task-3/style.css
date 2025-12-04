@@ -1,0 +1,27 @@
+.container{
+   background-color: rgb(200, 0, 255) ; 
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row; 
+
+   
+
+}
+.navlinks{
+    color:black;
+    display:flex;
+    gap:20px;
+    font:bold;
+}   
+
+ .buttons button{
+  background-color: #ffd700;
+  color: black;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: bold;
+
+
+ }
